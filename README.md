@@ -1,15 +1,10 @@
-- 👋 Hi, I’m @kapil-bhargava
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### Hi there 👋 I'm a React Developer
 
-<button>Ok</button>
-<input type="text">
+- 🔭 I’m currently working on Full-stack apps
+- 🌱 I’m currently learning Next.js
+- 💬 Ask me about React, Node, MongoDB
 
-<!---
-kapil-bhargava/kapil-bhargava is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+### 🛠️ Languages and Tools:
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
