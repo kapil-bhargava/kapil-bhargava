@@ -7,6 +7,7 @@
 - ⚡ Fun fact: ...
 
 <button>Ok</button>
+<input type="text">
 
 <!---
 kapil-bhargava/kapil-bhargava is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
