@@ -35,25 +35,25 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kapilbhargava&show_icons=true&theme=tokyonight" alt="Kapil's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kapilbhargava&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kapil-bhargava&show_icons=true&theme=tokyonight" alt="Kapil's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kapil-bhargava&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
 
 ### 🧩 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kapilbhargava&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kapil-bhargava&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph"/>
 </p>
 
 ---
 
 ### 📫 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/kapilbhargava/" target="_blank">
+  <a href="https://www.linkedin.com/in/kapilbhargava/](https://www.linkedin.com/in/kapil-bhargava-zninfotech/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:kapikkb28@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/>
   </a>
   <a href="https://zninfotech.com/" target="_blank">
